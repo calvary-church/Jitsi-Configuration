@@ -2,24 +2,9 @@
 *
 
 # But not these files...
-!config.js
-!*config.js
-!*cfg.lua
-!cfg.lua
-!nginx.conf
-!*nginx.conf
-!.gitignore
-!sip-communicator.properties
-!LICENSE
-
-# ...even if they are in subdirectories
-!*/
-
-# if the files to be tracked are in subdirectories
-!*/config.js
-!*/*config.js
-!*/cfg.lua
-!*/*cfg.lua
-!*/nginx.conf
-!*/*nginx.conf
-!*/sip-communicator.properties
+!**config.js
+!**cfg.lua
+!**nginx.conf
+!**.gitignore
+!**sip-communicator.properties
+!**LICENSE
