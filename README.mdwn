@@ -1,0 +1,5 @@
+# Jitsi-Configuration
+Calvary Church's Jitsi Video Conference Server Configuration Files and implementation details
+## Purpose
+As we setup and then began to use and customize a Jitsi server, there was interest in our community in how we set it up, along with a need to document how we have things configured.
+## 
