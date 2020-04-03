@@ -8,3 +8,11 @@
 !**.gitignore
 !**sip-communicator.properties
 !**LICENSE
+
+# But not these files in folders...
+!**/config.js
+!**/cfg.lua
+!**/nginx.conf
+!**/.gitignore
+!**/sip-communicator.properties
+!**/LICENSE
