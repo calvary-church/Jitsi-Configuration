@@ -8,6 +8,7 @@
 !**.gitignore
 !**sip-communicator.properties
 !**LICENSE
+!**README.mdwn
 
 # But not these files in folders...
 !**/config.js
